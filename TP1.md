@@ -60,5 +60,23 @@ Deleting the branch `feature/ma-nouvelle-fonctionnalite` :
 Creating a new branch and applying modifications in the code :
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/55cf08e0-0815-48d5-9750-ae0fea9e2527)
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/37bcd501-dbc1-405e-a793-afc8bb61b6fb)
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/c9933724-6705-4b87-8f42-701a80bbb488)
 
+Checkout to main branch and changing the same part of code :
 
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/c4280cf4-b4c0-4773-9a50-c41905527e65)
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/2d8d5f9d-f1f8-4873-8f36-121a1fe20d84)
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/d6a2a08d-3a7b-4ca1-becc-dd1ffde48c2c)
+
+Trying to merge the branch :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/534c6a89-51fc-4f24-9789-4d7faa7c7911)
+
+Solving the conflicts  :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/06ca6f9f-e3ba-4541-8715-ddf465664e31)
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/3004b569-8e28-433d-9eca-f64ce6a523fd)
+
+Commiting the modifications and pushing to the remote repo : 
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/c4c0fa1a-507e-45bc-9e08-b7c02d4fc7d1)
