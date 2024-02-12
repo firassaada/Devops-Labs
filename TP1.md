@@ -1,16 +1,16 @@
-Exercice 1 :
+# # Exercice 1 :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/23e39e58-44e5-4db7-bb4a-510f307ad0ec)
 
-Exercice 2 :
+# # Exercice 2 : 
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/4911078a-3ede-47a7-be78-7798d25edd96)
 
-Exercice 3 :
+# # Exercice 3 :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b6e1b998-4b56-41e4-988e-8943a586b325)
 
-Exercice 4 :
+# # Exercice 4 :
 
 The distant Repository before pushing local commits :
 
@@ -24,7 +24,7 @@ The distant Repository after pushing local commits :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/2bca3a28-1f1f-4e06-b010-a72da5b4156c)
 
-Exercice 5 :
+# # Exercice 5 :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b9350d91-31b2-4f81-9bca-6abb5d0313be)
 
