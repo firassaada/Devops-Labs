@@ -80,3 +80,37 @@ Solving the conflicts  :
 Commiting the modifications and pushing to the remote repo : 
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/c4c0fa1a-507e-45bc-9e08-b7c02d4fc7d1)
+
+EXERCICE 3 :
+
+Creating a git flow :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/11c1a354-b06a-4722-b8e1-79c69e49e0b3)
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/5bcaaa57-a7a6-4592-9b58-07cd70692bad)
+
+Creating a new commit on the branch 'Feature1' :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/8b8d5329-b41b-44ea-ba21-9279a20d0fb4)
+
+Creating a new commit on the branch 'Feature2' :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/2f12c5e5-d3da-42ae-b032-3d58889a2ce7)
+
+
+Merging feature1 and feature 2 branches in the develop branch :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/af199c33-c475-4597-b320-da1240a4eaee)
+
+
+Merging the develop branch in the main branch :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/e68fff8f-d656-41d8-92b3-86509a9e45bc)
+
+Pushing the changes to the remote repo :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/06acf086-4f97-4694-a433-3e075dd2fc60)
+
+# # Exercie 4 :
+
+
