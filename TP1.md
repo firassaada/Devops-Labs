@@ -28,3 +28,30 @@ Exercice 5 :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b9350d91-31b2-4f81-9bca-6abb5d0313be)
 
+
+# Partie 2:
+
+EXERCICE 1 :
+
+Clone the empty repo:
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/60976364-e4a5-46a4-a843-e6e59c16795f)
+
+Creating a new branch and switching to it :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/111768e4-989c-44d5-a3d8-8c1835802dab)
+
+
+adding a new commit on the branch `feature/ma-nouvelle-fonctionnalite` :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/a6d2d79e-e065-4242-8b9c-883ca19007c5)
+
+
+Reurning to the main branch then merging :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/abbfe8a2-1ea5-46d9-b856-e203f4f02e7b)
+
+Deleting the branch `feature/ma-nouvelle-fonctionnalite` :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/3e91acc4-c8d8-468e-9673-eb57e5c787c3)
+
