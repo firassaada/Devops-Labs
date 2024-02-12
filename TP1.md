@@ -23,3 +23,8 @@ cmd :
 The distant Repository after pushing local commits :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/2bca3a28-1f1f-4e06-b010-a72da5b4156c)
+
+Exercice 5 :
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b9350d91-31b2-4f81-9bca-6abb5d0313be)
+
