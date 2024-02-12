@@ -31,7 +31,7 @@ Exercice 5 :
 
 # Partie 2:
 
-EXERCICE 1 :
+# # EXERCICE 1 :
 
 Clone the empty repo:
 
@@ -57,7 +57,7 @@ Deleting the branch `feature/ma-nouvelle-fonctionnalite` :
 
 # # EXERCICE 2 :
 
-Creating a new branch and applying modifications in the code :
+Creating a new branch `hotfix/correction-bug` and applying modifications in the code :
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/55cf08e0-0815-48d5-9750-ae0fea9e2527)
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/37bcd501-dbc1-405e-a793-afc8bb61b6fb)
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/c9933724-6705-4b87-8f42-701a80bbb488)
@@ -68,7 +68,7 @@ Checkout to main branch and changing the same part of code :
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/2d8d5f9d-f1f8-4873-8f36-121a1fe20d84)
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/d6a2a08d-3a7b-4ca1-becc-dd1ffde48c2c)
 
-Trying to merge the branch :
+Trying to merge the branch `hotfix/correction-bug` :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/534c6a89-51fc-4f24-9789-4d7faa7c7911)
 
