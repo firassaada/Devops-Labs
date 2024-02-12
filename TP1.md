@@ -55,3 +55,10 @@ Deleting the branch `feature/ma-nouvelle-fonctionnalite` :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/3e91acc4-c8d8-468e-9673-eb57e5c787c3)
 
+# # EXERCICE 2 :
+
+Creating a new branch and applying modifications in the code :
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/55cf08e0-0815-48d5-9750-ae0fea9e2527)
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/37bcd501-dbc1-405e-a793-afc8bb61b6fb)
+
+
