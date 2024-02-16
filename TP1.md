@@ -127,6 +127,9 @@ Pushing the changes to the remote repo :
 
 # # Exercie 4 :
 
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b221643f-8423-474b-a566-379aae73a97c)
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/f8d83ae9-31f1-4a67-abc0-17a545784f92)
 
 
 
