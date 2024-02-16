@@ -7,6 +7,7 @@
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/4911078a-3ede-47a7-be78-7798d25edd96)
 
 # # Exercice 3 :
+.
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b6e1b998-4b56-41e4-988e-8943a586b325)
 
