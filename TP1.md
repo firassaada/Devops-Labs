@@ -7,7 +7,7 @@
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/4911078a-3ede-47a7-be78-7798d25edd96)
 
 # # Exercice 3 :
-.
+
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b6e1b998-4b56-41e4-988e-8943a586b325)
 
@@ -29,10 +29,18 @@ The distant Repository after pushing local commits :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b9350d91-31b2-4f81-9bca-6abb5d0313be)
 
+Git clone of my Collaborator : 
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/36238ebe-71d4-4629-9576-bbafeab302dd)
+
+
 Applying changes and pushing them : 
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/1d75dbd1-45ec-4935-a10a-c3b8d9939406)
 
+Git pull of my Collaborator : 
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/47b783c1-a2f5-40c6-b904-e3064083deac)
 
 
 # Partie 2:
@@ -119,7 +127,6 @@ Pushing the changes to the remote repo :
 
 # # Exercie 4 :
 
-Cloning Repository :
 
 
 
