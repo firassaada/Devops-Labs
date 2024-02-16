@@ -28,6 +28,11 @@ The distant Repository after pushing local commits :
 
 ![image](https://github.com/firassaada/Devops_Tps/assets/94303698/b9350d91-31b2-4f81-9bca-6abb5d0313be)
 
+Applying changes and pushing them : 
+
+![image](https://github.com/firassaada/Devops_Tps/assets/94303698/1d75dbd1-45ec-4935-a10a-c3b8d9939406)
+
+
 
 # Partie 2:
 
