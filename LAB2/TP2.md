@@ -24,3 +24,16 @@
 - Gestion des conteneurs Docker : liste,démarrage, arrêt, suppression
 
   ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/028fe71e-bbc8-43fa-b0a7-7078a26b99a8)
+
+ # Exécution d'une application SpringBoot dans un conteneur Docker :
+  Créer une Application SpringBoot avec un seule Contrôleur qui affiche le message «Bonjour »
+- Ecrire le Dockerfile pour créer une image de cette application :
+  
+  ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/479010e3-d9d6-4512-afea-0cdb029d3b59)
+
+  ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/9dcce40e-dfe9-443d-b54e-cfb96a91d91a)
+
+
+
+
+  
