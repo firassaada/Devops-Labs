@@ -10,8 +10,13 @@
 
   ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/d6e7cbf8-5ef1-45c4-bb28-3f23bb3cfb75)
 
+- Test et validation du fonctionnement du conteneur nginx
+- Exploration du contenu du Conteneur
+
   ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/3780b4d6-c452-449c-8a21-46d2c392aafe)
 
+- Création d’un deuxième Conteneur nginx sur le port 8091
+  
   ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/9a312d2a-54e7-42e1-bcfe-1967010d4e81)
 
   ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/0a4de02d-9993-4e53-87cc-12fbf15d31b0)
