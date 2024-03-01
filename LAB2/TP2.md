@@ -48,6 +48,7 @@ Voici un résumé de son rôle :
 * Intégration Continue: Docker s'intègre facilement aux outils d'intégration continue (CI) tels que Jenkins, GitLab CI, ou Travis CI, permettant une automatisation efficace des builds, des tests et des déploiements.
 
 On peut maximiser la sécurité de nos déploiements Docker en production et réduire les risques de compromission de la sécurité en suivants certains pratiques :
+
     *Utilisation de Docker Bench Security:
     * Mises à jour régulières des images: 
     * Réduction de la surface d'attaque: 
