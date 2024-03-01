@@ -127,6 +127,18 @@ On peut maximiser la sécurité de nos déploiements Docker en production et ré
     * Sécurisation des connexions réseau: 
     Utilisez des réseaux Docker sécurisés, tels que des réseaux privés virtuels (VPN) ou des réseaux overlay chiffrés, pour sécuriser les communications entre les conteneurs     et les hôtes Docker.
 
+# 9. Création de premiers Pipeline avec Jenkins :
+Script of the pipeline created : 
+
+![image](https://github.com/firassaada/Devops-Labs/assets/94303698/d87392aa-3b71-4389-8d6e-cd5d00abcd70)
+
+Pipeline built :
+
+![image](https://github.com/firassaada/Devops-Labs/assets/94303698/f12199c7-dac0-47ee-9fc4-3d214636e0e0)
+
+Image pushed to Dockerhub : 
+
+![image](https://github.com/firassaada/Devops-Labs/assets/94303698/5d32ceed-97dc-4e75-a276-b19c61931d03)
 
 
   
