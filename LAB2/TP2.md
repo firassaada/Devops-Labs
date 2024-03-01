@@ -33,6 +33,73 @@
 
   ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/9dcce40e-dfe9-443d-b54e-cfb96a91d91a)
 
+# 5. Compréhension de l'Application SpringBoot :
+
+![Capture d'écran 2024-03-01 030518](https://github.com/firassaada/Devops-Labs/assets/92325496/efb9e45e-f1df-4dcd-8ca2-cd133721f774)
+
+![Capture d'écran 2024-03-01 030711](https://github.com/firassaada/Devops-Labs/assets/92325496/607c57e3-20e1-41af-bd45-6eb59c06b0d0)
+
+![Capture d'écran 2024-03-01 030721](https://github.com/firassaada/Devops-Labs/assets/92325496/d6603ead-a1af-48f6-aa63-7ea0f5e33fdf)
+
+
+# 6. Containerisation de l'Application : 
+
+1-Lancer un container avec l’image officielle mongo :
+
+![Capture d'écran 2024-03-01 015635](https://github.com/firassaada/Devops-Labs/assets/92325496/8f8c8f7e-fc4a-499e-a3bb-c18696d07a84)
+
+2.1 - Création du network bridge pour assurer la communication entre les images mongo-db et l'image de notre application :
+
+![Capture d'écran 2024-03-01 015808](https://github.com/firassaada/Devops-Labs/assets/92325496/a0066c2d-d2d7-418b-b873-efe8a3131d1c)
+
+2.2 - Build de conteneur de notre application spring a partir du DockerFile
+
+![Capture d'écran 2024-03-01 022053](https://github.com/firassaada/Devops-Labs/assets/92325496/4adb7cbd-5bbb-493d-b474-c4d9036b1893)
+
+2.3 - Création de l'image a partir du conteneur déja crée :
+
+![Capture d'écran 2024-03-01 022219](https://github.com/firassaada/Devops-Labs/assets/92325496/d791a004-446f-407e-a0ae-cc2dcef5fc16)
+
+3- Test et validation :
+
+![Capture d'écran 2024-03-01 022728](https://github.com/firassaada/Devops-Labs/assets/92325496/7a849fa5-f347-46be-aee0-e519e0f41d4e)
+
+![Capture d'écran 2024-03-01 022425](https://github.com/firassaada/Devops-Labs/assets/92325496/0fd0fe3f-a4c4-41b7-b10b-a1c3de8cff20)
+
+![Capture d'écran 2024-03-01 022412](https://github.com/firassaada/Devops-Labs/assets/92325496/51e19953-fe34-49d4-b151-617d962fd269)
+
+4 - Lancement de l'application avec plusieur port:
+
+![Capture d'écran 2024-03-01 022836](https://github.com/firassaada/Devops-Labs/assets/92325496/d8a07f09-e20c-49a4-ba1f-ed6ba5c875f3)
+
+5 -Test et validation :
+
+![Capture d'écran 2024-03-01 022859](https://github.com/firassaada/Devops-Labs/assets/92325496/46e1983d-9eb7-450f-aabe-fd53966731f4)
+
+
+![Capture d'écran 2024-03-01 022849](https://github.com/firassaada/Devops-Labs/assets/92325496/23d1a7a5-7e7b-4aad-ba4d-cd420dffc5a4)
+
+
+# 7. Docker Compose : 
+
+1-Docker compose file :
+
+![Capture d'écran 2024-03-01 031808](https://github.com/firassaada/Devops-Labs/assets/92325496/4c694613-95b7-42dd-88e4-50b3ecad3463)
+
+2- Build des images à travers du docker compose:
+
+![Capture d'écran 2024-03-01 023832](https://github.com/firassaada/Devops-Labs/assets/92325496/c1ba86b9-20ff-4784-938a-e803dee382da)
+
+
+3- Test et Validation :
+
+![Capture d'écran 2024-03-01 024151](https://github.com/firassaada/Devops-Labs/assets/92325496/faf39101-ef19-4d5f-913c-1ad63b31c5f4)
+
+
+![Capture d'écran 2024-03-01 024106](https://github.com/firassaada/Devops-Labs/assets/92325496/9a88d089-104c-4c20-ac4d-62029f72ed9f)
+
+
+
 # 8. Intégration de Docker dans un environnement DevOps :
 Docker joue un rôle essentiel dans un flux de développement et de déploiement continu en permettant l'isolation et la portabilité des applications dans des environnements conteneurisés. 
 Voici un résumé de son rôle :
