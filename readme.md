@@ -5,8 +5,9 @@ The course covers various topics related to DevOps practices, tools, and methodo
 
 ## Weekly Labs
 - **LAB 1:** Introduction to GIT & Github
+- **LAB 2:** Introduction to Docker in a Devops Concept 
+
 
 ## Usage
-1. Clone the repository:
-   ```bash
+Clone the repository :
    git clone https://github.com/firassaada/Devops-Labs.git
