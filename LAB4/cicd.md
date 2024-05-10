@@ -37,3 +37,14 @@ Dans cette nouvelle phase d'approbation manuelle, une fois que l'image Docker es
 
 # CD with Iac(Terraform) :
 
+Dans cette fois ,Le repository GitHub contient un script Terraform utilisé pour créer et gérer les ressources AWS nécessaires à notre application. 
+Ce script Terraform représente l'infrastructure en tant que code, ce qui nous permet de définir et de configurer nos ressources AWS de manière programmable et reproductible.
+Notre pipeline CD déclenche automatiquement le déploiement des changements d'infrastructure dès qu'une modification est apportée au script Terraform dans notre référentiel GitHub.
+Le fichier buildspec.yml guide CodeBuild pour exécuter les commandes Terraform(Terraform init , Terraform apply), assurant ainsi un déploiement rapide et fiable des modifications.
+
+![image](https://github.com/firassaada/Devops-Labs/assets/94303698/bd55d2f3-aa76-46cd-bd6f-cd9b7e9526f0)
+
+![image](https://github.com/firassaada/Devops-Labs/assets/94303698/9008e275-1ad3-4e1a-b775-69a646354f1b)
+
+![image](https://github.com/firassaada/Devops-Labs/assets/94303698/4b8f6ec8-1def-4d24-9177-56eaf8393d66)
+
