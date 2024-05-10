@@ -5,8 +5,9 @@ The course covers various topics related to DevOps practices, tools, and methodo
 
 ## Weekly Labs
 - **LAB 1:** Introduction to GIT & Github
-- **LAB 2:** Introduction to Docker in a Devops Concept 
-
+- **LAB 2:** Introduction to Docker in a Devops Concept
+- **LAB 3:** Kubernetes in a DevOps Context
+- **LAB 4:** CICD Pipelines
 
 ## Usage
 Clone the repository :
