@@ -1,4 +1,6 @@
-# 1. Installation et configuration de Kubernetes :
+# Réalisé par Saada Firas & Bouhaha Aymen
+
+## 1. Installation et configuration de Kubernetes :
 Nous avons intalle minikube et on a éxecuté la commande 
 minukbe start
 ![Capture d'écran 2024-05-09 222145](https://github.com/firassaada/Devops-Labs/assets/92325496/e735a222-5c6b-4ce1-aab4-1ded1cd6564f)
@@ -6,7 +8,7 @@ minukbe start
 -le cluster est démarré :
 ![Capture d'écran 2024-05-10 024945](https://github.com/firassaada/Devops-Labs/assets/92325496/143edd90-63ba-4f08-bfeb-99f5f988e509)
 
-# 2. Déploiement de l'application :
+## 2. Déploiement de l'application :
 
 Nous avons créer une application ExpressJs qui retourne "Hello World" pour une requete GET , puis nous avons contenarisé cette application 
 
