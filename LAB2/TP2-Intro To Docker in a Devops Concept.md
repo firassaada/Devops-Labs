@@ -1,10 +1,12 @@
-# 2. Introduction à Docker
+# Réalisé par Saada Firas & Bouhaha Aymen
+
+## 2. Introduction à Docker
 - Installation de Docker sur votre environnement de développement.
 - Création d’un Compte Docker Hub
 
   ![image](https://github.com/firassaada/Devops-Labs/assets/94303698/a4433315-7562-46be-b5d5-54266b83b816)
 
-# 3. Utilisation de Docker :
+## 3. Utilisation de Docker :
 - Création d'un conteneur Docker à partir d'une image existante : nginx port 8090
   First , we pull the nginx image and we run the containers with it :
 
